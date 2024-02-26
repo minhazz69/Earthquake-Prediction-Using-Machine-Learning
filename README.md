@@ -14,7 +14,7 @@ For explanatory data analysis following graphs are used-
 
 For eleminating important categorical value problem 'One hot Encoding' has been applied.
 
-The system has been build using 80% data for trainning and 20% data for testing. 3 different type of Machine Learning algorithm has been integrated to predict the price. Such as-
+The system has been build using 80% data for trainning and 20% data for testing. 3 different type of Machine Learning algorithm has been integrated to predict the magnitude. Such as-
 1. Random Forest
 2. XGBoost
 3. Gradient Boost
